@@ -1,0 +1,62 @@
+# SampleProgram
+Program Exercise C#
+
+How to use:
+1. Input the math equation in the text box.
+2. Click calcualte button. Then a result message will appear below the text box.
+3. Click clear button to empty/clear the text box.
+
+
+Test Cases:
+
+Note the following mathematical operators
+Operators:
+sqrt(<value>) - square root
+^ - exponent
+/ - division
+* - multiplication
++ - addition
+- - subtraction
+
+Test Cases for single operator:
+
+Test Case 1 (Square Root)
+input = sqrt(16)
+result = 4
+
+Test Case 2 (Exponent)
+input = 9^8
+result = 43046721
+
+Test Case 3 (Multiplication)
+input = 9*3
+result = 27
+
+Test Case 4 (Division)
+input = 27/3
+result = 9
+
+Test Case 5 (Addition)
+input =  50+68
+result = 118
+
+Test Case 6 (Subraction)
+input = 1189-68
+result = 50
+
+Test cases for multiple operator:
+
+Test Case 1 (multi operators)
+input = 2^2+3*6
+result = 22
+
+Test Case 2 (multi operators)
+input = 2+4/sqrt(4)-4
+result = 0
+
+Test Case 3 (multi operators)
+input = 2+4/sqrt(4)-4+16^2
+result = 256
+
+
+
