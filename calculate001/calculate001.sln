@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calculateTest", "calculateT
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Doc", "Doc", "{35BF725D-920A-4111-96A9-4BE993287F07}"
 	ProjectSection(SolutionItems) = preProject
-		..\README = ..\README
+		..\README.victorm = ..\README.victorm
 	EndProjectSection
 EndProject
 Global
