@@ -7,6 +7,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calculate001", "calculate00
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calculateTest", "calculateTest\calculateTest.csproj", "{EAA47F1C-BA56-488D-B2D4-307753D110D7}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Doc", "Doc", "{35BF725D-920A-4111-96A9-4BE993287F07}"
+	ProjectSection(SolutionItems) = preProject
+		..\README = ..\README
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
